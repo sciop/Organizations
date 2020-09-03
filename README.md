@@ -1,1 +1,3 @@
 # Organizations
+
+Using Organizations as folders to organize an evergrowing number of repos...
